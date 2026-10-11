@@ -1,0 +1,6 @@
+[
+  {"name": "short", "file": "short.txt", "bytes": 3, "overflow": false},
+  {"name": "exact", "file": "exact.txt", "bytes": 7, "overflow": false},
+  {"name": "off_by_one", "file": "off_by_one.txt", "bytes": 8, "overflow": true},
+  {"name": "long", "file": "long.txt", "bytes": 16, "overflow": true}
+]
